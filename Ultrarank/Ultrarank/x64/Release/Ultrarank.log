@@ -1,0 +1,10 @@
+﻿  config.cpp
+  log.cpp
+  rank.cpp
+rank.cpp(46): warning C4244: “=”: 从“std::streamoff”转换到“long”，可能丢失数据
+  Ultrarank.cpp
+  正在生成代码
+  All 332 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Ultrarank.vcxproj -> D:\workspace2_visual_studio\Ultrarank\Ultrarank\x64\Release\Ultrarank.exe
+  Ultrarank.vcxproj -> D:\workspace2_visual_studio\Ultrarank\Ultrarank\x64\Release\Ultrarank.pdb (Full PDB)

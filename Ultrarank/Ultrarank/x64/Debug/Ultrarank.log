@@ -1,0 +1,8 @@
+﻿  Ultrarank.cpp
+  rank.cpp
+d:\workspace2_visual_studio\ultrarank\ultrarank\ultrarank\rank.cpp(41): warning C4244: “=”: 从“std::streamoff”转换到“long”，可能丢失数据
+  log.cpp
+  config.cpp
+  正在生成代码...
+  Ultrarank.vcxproj -> D:\workspace2_visual_studio\Ultrarank\Ultrarank\x64\Debug\Ultrarank.exe
+  Ultrarank.vcxproj -> D:\workspace2_visual_studio\Ultrarank\Ultrarank\x64\Debug\Ultrarank.pdb (Full PDB)
